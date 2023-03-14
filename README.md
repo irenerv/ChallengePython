@@ -1,2 +1,2 @@
 # ChallengePython
-Obtained top ten songs
+Obtained top ten list of songs
